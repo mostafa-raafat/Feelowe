@@ -1,0 +1,27 @@
+{
+  "name": "feelowe",
+  "version": "1.0.0",
+  "description": "This is Kendo UI Trial package, which contains a trial version of the respective Kendo UI commercial product.",
+  "main": "server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafa-raafat/Feelowe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafa-raafat/Feelowe/issues"
+  },
+  "homepage": "https://github.com/mostafa-raafat/Feelowe#readme",
+  "dependencies": {
+    "websocketserver": "^1.0.0",
+    "ws": "^7.2.1"
+  }
+}
